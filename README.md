@@ -2,7 +2,7 @@
 
 > :ok_hand: Drag and drop so simple it hurts
 
-# Just forked to be republished with fix for _typeof, as owner has not republished with the new changes
+# Just forked [vue2-dragula](https://www.npmjs.com/package/vue2-dragula) to be republished with fix for _typeof, as owner has not republished with the new changes
 # Will not be maintained further, when owner release new version with working changes, this package will probably be removed
 
 Vue wrapper for [dragula](https://github.com/bevacqua/dragula) drag'n drop library, based on [vue-dragula](https://github.com/Astray-git/vue-dragula) by [@Astray-git](https://github.com/Astray-git).
