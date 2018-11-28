@@ -2,6 +2,8 @@
 
 > :ok_hand: Drag and drop so simple it hurts
 
+# Just republished with fix for _typeof, as owner has not republished with the new changes
+
 Vue wrapper for [dragula](https://github.com/bevacqua/dragula) drag'n drop library, based on [vue-dragula](https://github.com/Astray-git/vue-dragula) by [@Astray-git](https://github.com/Astray-git).
 
 This library has been refactored, upgraded and extended with powerful new features for use with Vue 2.
